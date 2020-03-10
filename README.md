@@ -1,4 +1,4 @@
-# covid19-remote-work
+# covid19-remote-work ![GitHub pull requests](https://img.shields.io/github/last-commit/vickyonit/covid19-remote-work) ![Github contributors](https://img.shields.io/github/contributors/vickyonit/covid19-remote-work)
 
 
 Given the impact Coronavirus had, we at InterviewPass thought it might be a good idea to collate under one place all the tech resources available to quickly build a remote work environment for your employees. 
