@@ -1,11 +1,9 @@
-# awesome-remote-tools
-Awesome remote tools to start your remote work happily
+# covid19-remote-work
 
 
+Given the impact Coronavirus had, we at InterviewPass thought it might be a good idea to collate under one place all the tech resources available to quickly build a remote work environment for your employees. 
 
-Given the impact Coronavirus had, we at InterviewPass thought it might be a good idea to collate under one place all the tech resources available to build a remote work environment for the professional community. 
-
-Here are the top tools companies are giving away free, if you would like to add your resource feel free to include them in the comments section. 
+Here are the top tools companies are giving away free, if you would like to add your resource feel free to send a pull request. 
 
 # Video Conferencing and Webinars
 
