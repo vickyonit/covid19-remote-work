@@ -11,7 +11,7 @@ Here are the top tools companies are giving away free, if you would like to add 
 - [Interviewing](#interviewing)
 
 
-# Video Conferencing and Webinars
+## Video Conferencing and Webinars
 
 [Google Hangouts](https://t.co/OWWF7s5jjR) - offers free access to its advanced features on Hangouts 
 
@@ -24,7 +24,7 @@ In this case they are offering it for free to everyone who is signing up with ei
 
 [Zoom](https://blog.zoom.us/wordpress/2020/02/26/zoom-commitment-user-support-business-continuity-during-coronavirus-outbreak/) already provides a free version but has now removed time and participant limits to support business continuity 
 
-# Interviewing 
+## Interviewing 
 
 We are a bootstrapped startup based in Bangalore, however, we are determined to do our bit to help out in this situation. 
 
