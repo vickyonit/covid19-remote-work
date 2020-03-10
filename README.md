@@ -5,6 +5,12 @@ Given the impact Coronavirus had, we at InterviewPass thought it might be a good
 
 Here are the top tools companies are giving away free, if you would like to add your resource feel free to send a pull request. 
 
+
+## Table of Contents
+- [Video Conferencing and Webinars](#video-conferencing-and-webinars)
+- [Interviewing](#interviewing)
+
+
 # Video Conferencing and Webinars
 
 [Google Hangouts](https://t.co/OWWF7s5jjR) - offers free access to its advanced features on Hangouts 
