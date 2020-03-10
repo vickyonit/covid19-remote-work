@@ -32,7 +32,7 @@ We will offer a free fully supported digital interviewing experience for 3 month
 
 While our platform is easily self-serviceable, we are willing to work with you to manage your experience. 
 
-All you need to do is create your account [here](https://hire.interviewpass.co/signup) and drop me an email @ [gautham@interviewpass.co](mailto:gautam@interviewpass.co) to help you set up your first interview. 
+All you need to do is create your account [here](https://hire.interviewpass.co/signup) and drop me an email @ [gautam@interviewpass.co](mailto:gautam@interviewpass.co) to help you set up your first interview. 
 
 
 
