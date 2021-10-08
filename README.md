@@ -15,6 +15,8 @@ Here are the top tools companies are giving away free, if you would like to add 
 
 [Google Hangouts](https://t.co/OWWF7s5jjR) - offers free access to its advanced features on Hangouts 
 
+[Edworking](https://edworking.com) - One platform for you and your team. Try the best experience with everything that you need for a remote work together. Your task, your chats, your files, your videoconferences working together like team for free.
+
 [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) Microsoft is offering free access to Teams for 6 months - usually you need Office 365. 
 In this case they are offering it for free to everyone who is signing up with either a work or school email id. 
 
